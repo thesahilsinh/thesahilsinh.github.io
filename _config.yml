@@ -227,10 +227,10 @@ jekyll-archives:
     category: /categories/:name/
 
 
-title: thesahilsinh - Malware Analysis Labs
-tagline: Practical Malware Analysis (Sikorski & Honig) - My Lab Reports & Notes
-author: Sahilsinh Chavda 
-email: thesahilsinh@gmail.com
-github: thesahilsinh
-# Optional but cool for cyber vibe:
-theme_mode: dark   # forces dark mode like klezVirus
+# title: thesahilsinh - Malware Analysis Labs
+# tagline: Practical Malware Analysis (Sikorski & Honig) - My Lab Reports & Notes
+# author: Sahilsinh Chavda 
+# email: thesahilsinh@gmail.com
+# github: thesahilsinh
+# # Optional but cool for cyber vibe:
+# theme_mode: dark   # forces dark mode like klezVirus

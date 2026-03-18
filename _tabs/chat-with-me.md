@@ -12,7 +12,7 @@ order: 6
     Powered by DeepSeek-r1 (NVIDIA) — fully grounded in my content.
   </p>
   <iframe 
-    src="https://udify.app/chatbot/G7UTfWh5GGH73RAU"
+    src="https://udify.app/chatbot/TcmnuoZKC8FrIh7S"
     width="100%" 
     height="680" 
     frameborder="0" 

@@ -5,17 +5,17 @@ icon: fas fa-comments
 order: 6             # Puts it after ABOUT (change number if you want different position)
 ---
 
-<div class="chat-page mt-8">
+<!-- <div class="chat-page mt-8">
   <h1 class="text-3xl font-bold mb-2 flex items-center gap-3">
     💬 Chat With Me
   </h1>
   <p class="text-zinc-400 mb-8">
     Ask anything about my resume, PMA labs, Drone Forensics Tool, teaching experience, or malware analysis projects.<br>
     Powered by <strong>NVIDIA Llama 3.1</strong> — answers are grounded only in my content.
-  </p>
+  </p> -->
 
   <!-- ChatGPT-style Full Chat Interface -->
-  <div class="bg-zinc-900 border border-zinc-700 rounded-3xl shadow-2xl overflow-hidden max-w-4xl mx-auto" style="height: 620px; display: flex; flex-direction: column;">
+ <!-- <div class="bg-zinc-900 border border-zinc-700 rounded-3xl shadow-2xl overflow-hidden max-w-4xl mx-auto" style="height: 620px; display: flex; flex-direction: column;">
     
     <!-- Chat Header -->
     <div class="bg-zinc-800 px-6 py-4 flex items-center justify-between border-b border-zinc-700">
@@ -48,7 +48,7 @@ order: 6             # Puts it after ABOUT (change number if you want different 
       </div>
       <p class="text-[10px] text-zinc-500 text-center mt-3">Answers are based only on my resume + blog posts</p>
     </div>
-  </div>
+<!--  </div>
 </div>
 
 <script>

@@ -7,7 +7,7 @@ order: 6             # Puts it after ABOUT (change number if you want different 
 
 <!-- <div class="chat-page mt-8">
   <h1 class="text-3xl font-bold mb-2 flex items-center gap-3">
-    💬 Chat With Me
+    hat With Me
   </h1>
   <p class="text-zinc-400 mb-8">
     Ask anything about my resume, PMA labs, Drone Forensics Tool, teaching experience, or malware analysis projects.<br>
@@ -91,7 +91,7 @@ order: 6             # Puts it after ABOUT (change number if you want different 
       addMessage("bot", data.response || data.answer || "No answer received.");
     } catch (e) {
       loading.remove();
-      addMessage("bot", "⚠️ Backend is waking up. Refresh and try again in 20 seconds.");
+      addMessage("bot", " Backend is waking up. Refresh and try again in 20 seconds.");
     }
   }
 
@@ -107,7 +107,7 @@ order: 6             # Puts it after ABOUT (change number if you want different 
       const welcome = document.createElement("div");
       welcome.innerHTML = `
         <div class="bg-zinc-800 text-white max-w-[75%] px-5 py-3.5 rounded-3xl">
-          Hi! I'm your personal AI assistant. Ask me anything about Sahilsinh's resume, malware analysis labs, or projects 😊
+          Hi! I'm your personal AI assistant. Ask me anything about Sahilsinh's resume, malware analysis labs, or projects 
         </div>`;
       container.appendChild(welcome);
     }

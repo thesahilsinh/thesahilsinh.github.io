@@ -11,8 +11,6 @@ order: 6
     Ask anything about my resume, PMA labs, Drone Forensics Tool, certifications, or projects.<br>
     Powered by DeepSeek-r1 (NVIDIA) — fully grounded in my content.
   </p>
-
-  <!-- Dify Chat Widget (replace YOUR_TOKEN with the one from Dify) -->
   <iframe 
     src="https://udify.app/chatbot/G7UTfWh5GGH73RAU"
     width="100%" 

@@ -28,8 +28,7 @@ I am not going to describe this i just know this terms. Also there are many more
 
 General Rules:
 
-1) Don't go into too deep. just try to get overview and look what's happening
-2) try different angle, or just try different approach (like kinda you treat your girl)
-3) it is like cat-mouse game mouse is malware authors and we are cat.
-
-
+1) Don't go into too deep. just try to get overview and look what's happening   
+2) try different angle, or just try different approach (like kinda you treat your girl)   
+3) it is like cat-mouse game mouse is malware authors and we are cat.  
+ 

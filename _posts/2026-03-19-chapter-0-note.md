@@ -1,3 +1,10 @@
+---
+title: Chapter 0 - Note
+date: 2026-03-19 00:00:00 +0000
+categories: [Practical-Malware-Analysis, Chapter-0]
+tags: [Malware-analysis, Introduction]
+---
+
 Goal of malware analysis:
 
 - network intrusion

@@ -71,7 +71,7 @@ Key Benefits of the SDK Approach
 
 so when we run the mcp_server.py file it looks like this
 
-![alt text](image.png)
+![alt text](/assets/img/mcp/image.png)
 
 # Connecting with MCP Clients
 
@@ -94,7 +94,7 @@ two types :
 
 ### accessing resources
 
-![alt text](image-1.png)
+![alt text](/assets/img/mcp/image-1.png)
 
 like this
 
@@ -108,9 +108,9 @@ for this we use this code :
 
 ### prompts in the client
 
-![alt text](image-2.png)
+![alt text](/assets/img/mcp/image-2.png)
 
 
 # Assessment and wrap up
 
-![alt text](image-3.png)
+![alt text](/assets/img/mcp/image-3.png)

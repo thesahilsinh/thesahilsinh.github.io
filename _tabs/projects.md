@@ -16,7 +16,7 @@ Here are some of the projects I've built during my learning journey:
 
 **What I learned:** Clean tool integration, resources & prompts in MCP, reducing boilerplate for AI agents.
 
-**[View Full Notes](/_posts/2026-03-30-intro-to-mcp.md)**  
+**[View Full Notes](https://thesahilsinh.github.io/posts/intro-to-mcp/)**  
 **[GitHub Repo](https://github.com/thesahilsinh/AI-Learning/tree/main/Anth/Intro2MCP)**
 
 ---
@@ -28,5 +28,5 @@ Here are some of the projects I've built during my learning journey:
 **Tech**: Flask • Python • Pillow • qrcode  
 **Status**: Completed
 
-**[View Project](/_posts/2026-03-30-qr-code-generator.md)**  
+<!-- **[View Project]()**   -->
 **[GitHub](https://github.com/thesahilsinh/qr-gen)**

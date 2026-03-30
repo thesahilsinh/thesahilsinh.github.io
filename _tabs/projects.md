@@ -16,22 +16,17 @@ Here are some of the projects I've built during my learning journey:
 
 **What I learned:** Clean tool integration, resources & prompts in MCP, reducing boilerplate for AI agents.
 
-**[View Full Notes](/posts/intro-to-mcp)**  
-**[GitHub Repo](https://github.com/thesahilsinh/AI-Learning/tree/main/Anth/Intro2MCP)**  
-*(Add live demo link if you have one)*
-
-**Screenshots:**
-![MCP Server Inspector](/assets/img/mcp/server-inspector.png)
-![FastMCP Tool Definition](/assets/img/mcp/tool-example.png)
+**[View Full Notes](\_posts\2026-03-30-intro-to-mcp.md)**  
+**[GitHub Repo](https://github.com/thesahilsinh/AI-Learning/tree/main/Anth/Intro2MCP)**
 
 ---
 
-### 2. Drone Forensics Tool (DFT)
-**Description:** Python-based tool to recover and analyze encrypted drone data using PyTSK.
+### 2. QR.GEN — Real-time QR Code Studio
 
-**Tech Stack:** Python, PyTSK, Autopsy, FTK Imager
+**Beautiful live QR code generator with logo overlay and scannability analysis.**
 
-**[GitHub Repo](link-to-repo)**  
-**Live Demo / Report:** (add link)
+**Tech**: Flask • Python • Pillow • qrcode  
+**Status**: Completed
 
-*(Add more projects as you complete them)*
+**[View Project](/posts/2026-03-30-qr-code-generator)**  
+**[GitHub](https://github.com/thesahilsinh/qr-gen)**

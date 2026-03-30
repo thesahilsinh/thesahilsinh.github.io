@@ -64,13 +64,7 @@ I enjoy building practical things that help me learn and solve real problems.
     <p>Beautiful live QR code generator with advanced styling, logo overlay, scannability analysis, and real-time preview. Built with Flask and modern UI.</p>
   </a>
 
-  <a href="https://github.com/thesahilsinh/AI-Learning" class="project-card" target="_blank">
-    <div class="project-icon">📚</div>
-    <h3>Drone Forensics Tool (DFT)</h3>
-    <p>Python tool to recover and analyze encrypted drone data using PyTSK. Compared results with Autopsy and FTK Imager.</p>
-  </a>
-
-  <a href="#" class="project-card">
+  <a href="#https://github.com/thesahilsinh/PMA" class="project-card">
     <div class="project-icon">🛡️</div>
     <h3>Practical Malware Analysis Labs</h3>
     <p>Detailed notes, screenshots, and solutions for every lab from the book "Practical Malware Analysis" by Sikorski & Honig.</p>

@@ -9,7 +9,7 @@ tags: [flask, qrcode, pil, web-app, qr-code, frontend]
 
 A beautiful, real-time QR code generator with advanced customization options.
 
-![alt text](\assets\img\projects\qr_img_1.png)
+![alt text](/assets/img/projects/qr_img_1.png)
 
 ### Features
 
@@ -30,18 +30,12 @@ A beautiful, real-time QR code generator with advanced customization options.
 
 ### Screenshots
 
-![alt text](\assets\img\projects\qr_img_2.png)
-![alt text](\assets\img\projects\qr_img_3.png)
-
-### Live Demo
-
-**→ [Try QR.GEN Live](https://your-live-link-here.com)**  
-*(We'll add this later once you deploy it)*
+![alt text](/assets/img/projects/qr_img_2.png)
+![alt text](/assets/img/projects/qr_img_3.png)
 
 ### GitHub Repository
 
 **[View Source Code](https://github.com/thesahilsinh/qr-gen)**  
-*(Update this link with your actual repo)*
 
 ### What I Learned
 

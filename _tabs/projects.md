@@ -28,5 +28,5 @@ Here are some of the projects I've built during my learning journey:
 **Tech**: Flask • Python • Pillow • qrcode  
 **Status**: Completed
 
-**[View Project](/posts/2026-03-30-qr-code-generator)**  
+**[View Project](/_posts/2026-03-30-qr-code-generator.md)**  
 **[GitHub](https://github.com/thesahilsinh/qr-gen)**

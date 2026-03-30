@@ -46,8 +46,3 @@ A beautiful, real-time QR code generator with advanced customization options.
 - Creating a modern, dark cyber-themed UI with pure CSS and vanilla JS
 
 This project helped me improve my full-stack skills and attention to UI/UX details.
-
----
-
-**Related:**
-- [My AI & Web Projects](/projects)

@@ -1,11 +1,7 @@
 ---
-layout: tab
-title: Projects
 icon: fas fa-diagram-project
 order: 4
 ---
-
-# My Projects
 
 Here are some of the tools, experiments, and projects I’ve built during my learning journey — mostly focused on **Malware Analysis**, **Digital Forensics**, **AI**, and **Cybersecurity tools**.
 
@@ -14,39 +10,42 @@ I enjoy building practical things that help me learn and solve real problems.
 <style>
 .project-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 1.5rem;
   margin-top: 2rem;
 }
+
 .project-card {
   background: #1f1f1f;
-  padding: 1.4rem;
-  border-radius: 12px;
+  padding: 1rem;
+  border-radius: 8px;
   color: #ddd;
   text-decoration: none;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
-  transition: all 0.3s ease;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+  transition: transform 0.2s ease;
   display: block;
-  border: 1px solid #2a2a2a;
 }
+
 .project-card:hover {
-  transform: translateY(-6px);
-  box-shadow: 0 8px 20px rgba(0,240,255,0.15);
-  border-color: #00f0ff;
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
 }
+
 .project-icon {
-  font-size: 2.2rem;
-  margin-bottom: 0.8rem;
+  font-size: 2rem;
+  margin-bottom: 0.4rem;
 }
+
 .project-card h3 {
-  margin: 0.3rem 0 0.6rem;
+  margin: 0.2rem 0;
   color: #fff;
-  font-size: 1.25rem;
+  font-size: 1.2rem;
 }
+
 .project-card p {
   font-size: 0.95rem;
-  color: #aaa;
-  line-height: 1.5;
+  color: #ccc;
+  margin: 0.4rem 0 0;
 }
 </style>
 
@@ -64,7 +63,7 @@ I enjoy building practical things that help me learn and solve real problems.
     <p>Beautiful live QR code generator with advanced styling, logo overlay, scannability analysis, and real-time preview. Built with Flask and modern UI.</p>
   </a>
 
-  <a href="#https://github.com/thesahilsinh/PMA" class="project-card">
+  <a href="https://github.com/thesahilsinh/PMA" class="project-card" target="_blank">
     <div class="project-icon">🛡️</div>
     <h3>Practical Malware Analysis Labs</h3>
     <p>Detailed notes, screenshots, and solutions for every lab from the book "Practical Malware Analysis" by Sikorski & Honig.</p>

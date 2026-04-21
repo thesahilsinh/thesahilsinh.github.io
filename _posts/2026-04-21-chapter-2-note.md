@@ -7,11 +7,11 @@ tags: [Malware-analysis, Introduction]
 
 # Malware Analysis in virtual machines
 
-in malware analysis running malware on real system could have potential impact as it can damage other system in the environment. Because of that malware analyst use virtual machine to mimic the real machine and using snapshot to revert back to the original analyst machine. But some complicated and sophisticated malwares behave differently in VMs to thwart analysis. for that analyst run such malwares in physical system with norton ghost to manage backup /assets/img/notes/images of OSs
+in malware analysis running malware on real system could have potential impact as it can damage other system in the environment. Because of that malware analyst use virtual machine to mimic the real machine and using snapshot to revert back to the original analyst machine. But some complicated and sophisticated malwares behave differently in VMs to thwart analysis. for that analyst run such malwares in physical system with norton ghost to manage backup /assets/img/notes/PMA/Ch2/images of OSs
 
 ## structure of VM
 
-![alt text](/assets/img/notes/image39.png)
+![alt text](/assets/img/notes/PMA/Ch2/image39.png)
 
 This book prefer to use VMware but i am going to use virtual box. this are the application which provides desktop virutalization and snapshot features.
 
